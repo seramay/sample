@@ -2,4 +2,4 @@ developブランチにて作成
 
 
 feat_aにてdevelopマージ後に記述
-feat_bにて記述
+feat_bにて記述、rebaseして、マージ後に追記今回は push 前にrebase予定。
