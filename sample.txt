@@ -13,3 +13,6 @@ develop => develop2ブランチ切った後、feat2ブランチを切り、そ�
 develop2から切って、develop2で編集した後にfeat2にて編集
 devolop2はコミット、プッシュ。そしてfeat2で編集した後、(stashしたが)再びdevolop2で編集し、コミット。
 これでdevolop2のリモートとローカルが別になったので、「merge devolop2 into feat2」の効能がわかる。
+
+feat2でinto mergeしてからの物(コンフリクトをローカルで解消した物)をdevolop2にてmergeし、
+その後devolop2で編集し、コミット。マージという統合後の流れをみる。
