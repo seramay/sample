@@ -1,12 +1,4 @@
-developブランチにて作成
-
-
-feat_aにてdevelopマージ後に記述
-feat_bにて記述、rebaseして、マージ後に追記今回は push 前にrebase予定。
-
-shoさんフォーク後の記述
-
-
+元々あった記述はほとんど削除。この部分はmasterだけが持っている。(デプロイ環境のような役割)
 
 
 develop => develop2ブランチ切った後、feat2ブランチを切り、その後にdevelop2で編集
