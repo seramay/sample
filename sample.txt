@@ -7,7 +7,9 @@ feat_bにて記述、rebaseして、マージ後に追記今回は push 前にre
 shoさんフォーク後の記述
 
 
-develop => develop2ブランチ切った後、feat2ブランチを切り、その後にdevelop2で編集
 
+
+develop => develop2ブランチ切った後、feat2ブランチを切り、その後にdevelop2で編集
+develop2から切って、develop2で編集した後にfeat2にて編集
 devolop2はコミット、プッシュ。そしてfeat2で編集した後、(stashしたが)再びdevolop2で編集し、コミット。
 これでdevolop2のリモートとローカルが別になったので、「merge devolop2 into feat2」の効能がわかる。
