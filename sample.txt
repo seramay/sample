@@ -5,3 +5,6 @@ feat_aにてdevelopマージ後に記述
 feat_bにて記述、rebaseして、マージ後に追記今回は push 前にrebase予定。
 
 shoさんフォーク後の記述
+
+
+develop => develop2ブランチ切った後、feat2ブランチを切り、その後にdevelop2で編集
